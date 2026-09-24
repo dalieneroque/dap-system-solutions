@@ -67,7 +67,9 @@ públicas relacionadas às despesas e pagamentos das enchentes de 2024.
 
 ## 📄 Documentação
 
-A documentação completa do projeto está disponível na pasta `docs`.
+A documentação completa do projeto está disponível abaixo:
+
+📑 [Visualizar documentação completa em PDF](Projeto-DAP-System-Solutions.pdf)
 
 ## 🖼️ Dashboard
 
